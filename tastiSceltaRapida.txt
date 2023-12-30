@@ -1,0 +1,17 @@
+Ctrl+Shift+F = per cercare qualcosa in particolare
+Maiusc + Alt + F = per identare
+Node name.js = per eseguire il file
+
+color : crimson
+colore oro : #faf1a3
+
+pesiCorpoLiberoString, 
+obiettivoString, 
+intensitaString, 
+genereString, 
+perditaGrassoString,
+frequenzaAllenamentoString, 
+areaPiuSviluppataString, 
+primoGruppoMenoSviluppatoString,
+secondoGruppoMenoSviluppatoString;
+
